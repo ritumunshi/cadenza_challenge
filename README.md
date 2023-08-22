@@ -8,4 +8,4 @@ https://drive.google.com/drive/folders/19SR_3_LSKnE3DN6NzVwjiNYzr24e2NYF?usp=dri
 https://colab.research.google.com/drive/1JrykEBjh0jFqaMoiTwHDGjy3BOHOjWKe?usp=sharing
 
 -- To see  the outputs of Open-Unmix model , you can refer here:
-https://colab.research.google.com/drive/1Fr3xRZNU2cwFsbGKmeICBDudg0dQPfkt
+https://drive.google.com/file/d/14mUMjGs_rWtf-ULmeP0DMk3BoeFlpRgC/view?usp=sharing
